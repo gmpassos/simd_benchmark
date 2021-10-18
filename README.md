@@ -89,3 +89,9 @@ caseSigmoidFloat64x2> caseSigmoidFloat64x2{ elapsedTime: 6643 ms, hertz: 15,053,
 ======================================================================
 Dart version: 2.15.0-178.1.beta (beta) (Tue Oct 12 11:11:28 2021 +0200) on "macos_x64"
 ```
+
+## Contribution
+
+If you want to contribute to this issue, run the benchmark
+in your device and edit this README, adding your results
+with the same information above, and send your `Pull Request`.
