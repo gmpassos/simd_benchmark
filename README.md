@@ -14,7 +14,7 @@ Performance degradation:
 
 ------------------------------------------------------------------------------------------------------------------------
 
-## Device 1 (macOS x64)
+## Device 1 (macOS x64 - Intel)
 
 - macOS Big Sur 11.4
 - MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
